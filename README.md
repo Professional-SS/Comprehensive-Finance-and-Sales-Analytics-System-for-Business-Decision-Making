@@ -1,16 +1,6 @@
-# Project Overview: Advanced Business Insights for Finance and Sales Analytics
+#  Advanced Business Insights for Finance and Sales Analytics
 
 This project focuses on designing and implementing a comprehensive analytics solution for a mid-sized retail company. The solution addresses critical business challenges in finance and sales by leveraging SQL, Tableau, and Python for dynamic reporting, trend analysis, and supply chain optimization. 
-
-## Key Highlights
-- Data normalization and integration using advanced SQL techniques.
-- Interactive Tableau dashboards for executive-level decision-making.
-- Automated ETL pipelines for real-time data refreshes.
-- Insights-driven reporting to track KPIs and optimize supply chain operations.
-
----
-
-## Key Deliverables
 
 ### 1. **Reports**
 - **Monthly and Yearly Gross Sales Reports**: Trend analysis of product and regional performance.
@@ -37,10 +27,10 @@ This project focuses on designing and implementing a comprehensive analytics sol
 ---
 
 ## Tools and Technologies Used
-- **SQL**: Data extraction, transformation, and querying with advanced techniques (CTEs, window functions, and stored procedures).
-- **Python**: Automating data pipelines and performing additional transformations.
-- **Tableau**: Building interactive dashboards for visualization and reporting.
-- **DevOps**: Implementing automation processes for continuous delivery of insights.
+- **SQL**
+- **Python**
+- **Tableau**
+- **DevOps**
 
 ---
 
